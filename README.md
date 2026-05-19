@@ -33,7 +33,7 @@ data_processor/
 Clone the repo and install the only dependency you need:
 
 ```bash
-git clone https://github.com/your-username/data-file-processor.git
+git clone https://github.com/akashrey09/data-file-processor.git
 cd data-file-processor
 pip install pandas
 ```
