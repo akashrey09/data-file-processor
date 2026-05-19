@@ -1,0 +1,11 @@
+name,age,salary,city
+Alice,25,50000,New York
+Bob,30,60000,London
+Alice,25,50000,New York
+Charlie,,45000,Paris
+David,35,,Berlin
+Eve,28,52000,
+Bob,30,60000,London
+Frank,22,38000,Tokyo
+Grace,,41000,Sydney
+Henry,40,70000,New York
