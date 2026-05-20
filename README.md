@@ -95,7 +95,7 @@ And a fresh `cleaned_output.csv` gets saved in the same folder.
 - Splitting code into separate files and keeping things modular
 - Handling errors properly instead of just letting things crash
 - Cleaning data with Pandas — `drop_duplicates()`, `fillna()`, `dropna()`
-- The difference between raising an error vs just printing a message (took me a minute 😅)
+- The difference between raising an error vs just printing a message
 
 ---
 
